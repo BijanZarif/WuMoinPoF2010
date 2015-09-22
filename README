@@ -1,0 +1,5 @@
+These are the statistics as reported in the paper of Wu and Moin,
+"Transitional and turbulent boundary layer with heat transfer",
+Physics of Fluids, 2010. The momentum-thickness Reynolds number 
+Re_theta varies continuously from 80 to 1950.  Isosurfaces of
+Q-criterion colored y^+ are found in the Images/ directory.
